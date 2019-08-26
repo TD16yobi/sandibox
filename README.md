@@ -1,8 +1,5 @@
 
 <html>
-<head>
-<meta charset="UTF-8">
-<title>Snake</title>
 <style type="text/css">
             @import url("https://fonts.googleapis.com/css?family=VT323");
             
@@ -157,8 +154,6 @@
                 color: #000;
             }
 </style>
-
-<body data-rsssl=1>
 	
 <header class="wrap">
                 <h1>Snake</h1>
