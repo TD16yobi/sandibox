@@ -1,10 +1,9 @@
-# SandiBox
-
-This is where I will be uploading diffrerent projects for web testing 
-
-
 <!DOCTYPE HTML>
 <html>
+
+<head>
+<meta charset="UTF-8">
+<title>Snake</title>
 <style type="text/css">
             @import url("https://fonts.googleapis.com/css?family=VT323");
             
